@@ -1,0 +1,15 @@
+G:\TRABAJO\MODULOS\PROG\PROGRAMACIONDAM\u15_poo_roles_herencia\ejercicios\1_ejercicios\solucion\ejercicio3\bin\Debug\net9.0\ejercicio3.exe
+G:\TRABAJO\MODULOS\PROG\PROGRAMACIONDAM\u15_poo_roles_herencia\ejercicios\1_ejercicios\solucion\ejercicio3\bin\Debug\net9.0\ejercicio3.deps.json
+G:\TRABAJO\MODULOS\PROG\PROGRAMACIONDAM\u15_poo_roles_herencia\ejercicios\1_ejercicios\solucion\ejercicio3\bin\Debug\net9.0\ejercicio3.runtimeconfig.json
+G:\TRABAJO\MODULOS\PROG\PROGRAMACIONDAM\u15_poo_roles_herencia\ejercicios\1_ejercicios\solucion\ejercicio3\bin\Debug\net9.0\ejercicio3.dll
+G:\TRABAJO\MODULOS\PROG\PROGRAMACIONDAM\u15_poo_roles_herencia\ejercicios\1_ejercicios\solucion\ejercicio3\bin\Debug\net9.0\ejercicio3.pdb
+G:\TRABAJO\MODULOS\PROG\PROGRAMACIONDAM\u15_poo_roles_herencia\ejercicios\1_ejercicios\solucion\ejercicio3\obj\Debug\net9.0\ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+G:\TRABAJO\MODULOS\PROG\PROGRAMACIONDAM\u15_poo_roles_herencia\ejercicios\1_ejercicios\solucion\ejercicio3\obj\Debug\net9.0\ejercicio3.AssemblyInfoInputs.cache
+G:\TRABAJO\MODULOS\PROG\PROGRAMACIONDAM\u15_poo_roles_herencia\ejercicios\1_ejercicios\solucion\ejercicio3\obj\Debug\net9.0\ejercicio3.AssemblyInfo.cs
+G:\TRABAJO\MODULOS\PROG\PROGRAMACIONDAM\u15_poo_roles_herencia\ejercicios\1_ejercicios\solucion\ejercicio3\obj\Debug\net9.0\ejercicio3.csproj.CoreCompileInputs.cache
+G:\TRABAJO\MODULOS\PROG\PROGRAMACIONDAM\u15_poo_roles_herencia\ejercicios\1_ejercicios\solucion\ejercicio3\obj\Debug\net9.0\ejercicio3.sourcelink.json
+G:\TRABAJO\MODULOS\PROG\PROGRAMACIONDAM\u15_poo_roles_herencia\ejercicios\1_ejercicios\solucion\ejercicio3\obj\Debug\net9.0\ejercicio3.dll
+G:\TRABAJO\MODULOS\PROG\PROGRAMACIONDAM\u15_poo_roles_herencia\ejercicios\1_ejercicios\solucion\ejercicio3\obj\Debug\net9.0\refint\ejercicio3.dll
+G:\TRABAJO\MODULOS\PROG\PROGRAMACIONDAM\u15_poo_roles_herencia\ejercicios\1_ejercicios\solucion\ejercicio3\obj\Debug\net9.0\ejercicio3.pdb
+G:\TRABAJO\MODULOS\PROG\PROGRAMACIONDAM\u15_poo_roles_herencia\ejercicios\1_ejercicios\solucion\ejercicio3\obj\Debug\net9.0\ejercicio3.genruntimeconfig.cache
+G:\TRABAJO\MODULOS\PROG\PROGRAMACIONDAM\u15_poo_roles_herencia\ejercicios\1_ejercicios\solucion\ejercicio3\obj\Debug\net9.0\ref\ejercicio3.dll
