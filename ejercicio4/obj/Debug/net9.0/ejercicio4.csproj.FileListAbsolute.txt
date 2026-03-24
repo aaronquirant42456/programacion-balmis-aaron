@@ -1,0 +1,15 @@
+G:\TRABAJO\MODULOS\PROG\PROGRAMACIONDAM\u20_programacion_funcional\ejercicios\2_ejercicios\solucion\2_ejercicios_programacion_funcional\ejercicio4\bin\Debug\net9.0\ejercicio4.exe
+G:\TRABAJO\MODULOS\PROG\PROGRAMACIONDAM\u20_programacion_funcional\ejercicios\2_ejercicios\solucion\2_ejercicios_programacion_funcional\ejercicio4\bin\Debug\net9.0\ejercicio4.deps.json
+G:\TRABAJO\MODULOS\PROG\PROGRAMACIONDAM\u20_programacion_funcional\ejercicios\2_ejercicios\solucion\2_ejercicios_programacion_funcional\ejercicio4\bin\Debug\net9.0\ejercicio4.runtimeconfig.json
+G:\TRABAJO\MODULOS\PROG\PROGRAMACIONDAM\u20_programacion_funcional\ejercicios\2_ejercicios\solucion\2_ejercicios_programacion_funcional\ejercicio4\bin\Debug\net9.0\ejercicio4.dll
+G:\TRABAJO\MODULOS\PROG\PROGRAMACIONDAM\u20_programacion_funcional\ejercicios\2_ejercicios\solucion\2_ejercicios_programacion_funcional\ejercicio4\bin\Debug\net9.0\ejercicio4.pdb
+G:\TRABAJO\MODULOS\PROG\PROGRAMACIONDAM\u20_programacion_funcional\ejercicios\2_ejercicios\solucion\2_ejercicios_programacion_funcional\ejercicio4\obj\Debug\net9.0\ejercicio4.GeneratedMSBuildEditorConfig.editorconfig
+G:\TRABAJO\MODULOS\PROG\PROGRAMACIONDAM\u20_programacion_funcional\ejercicios\2_ejercicios\solucion\2_ejercicios_programacion_funcional\ejercicio4\obj\Debug\net9.0\ejercicio4.AssemblyInfoInputs.cache
+G:\TRABAJO\MODULOS\PROG\PROGRAMACIONDAM\u20_programacion_funcional\ejercicios\2_ejercicios\solucion\2_ejercicios_programacion_funcional\ejercicio4\obj\Debug\net9.0\ejercicio4.AssemblyInfo.cs
+G:\TRABAJO\MODULOS\PROG\PROGRAMACIONDAM\u20_programacion_funcional\ejercicios\2_ejercicios\solucion\2_ejercicios_programacion_funcional\ejercicio4\obj\Debug\net9.0\ejercicio4.csproj.CoreCompileInputs.cache
+G:\TRABAJO\MODULOS\PROG\PROGRAMACIONDAM\u20_programacion_funcional\ejercicios\2_ejercicios\solucion\2_ejercicios_programacion_funcional\ejercicio4\obj\Debug\net9.0\ejercicio4.sourcelink.json
+G:\TRABAJO\MODULOS\PROG\PROGRAMACIONDAM\u20_programacion_funcional\ejercicios\2_ejercicios\solucion\2_ejercicios_programacion_funcional\ejercicio4\obj\Debug\net9.0\ejercicio4.dll
+G:\TRABAJO\MODULOS\PROG\PROGRAMACIONDAM\u20_programacion_funcional\ejercicios\2_ejercicios\solucion\2_ejercicios_programacion_funcional\ejercicio4\obj\Debug\net9.0\refint\ejercicio4.dll
+G:\TRABAJO\MODULOS\PROG\PROGRAMACIONDAM\u20_programacion_funcional\ejercicios\2_ejercicios\solucion\2_ejercicios_programacion_funcional\ejercicio4\obj\Debug\net9.0\ejercicio4.pdb
+G:\TRABAJO\MODULOS\PROG\PROGRAMACIONDAM\u20_programacion_funcional\ejercicios\2_ejercicios\solucion\2_ejercicios_programacion_funcional\ejercicio4\obj\Debug\net9.0\ejercicio4.genruntimeconfig.cache
+G:\TRABAJO\MODULOS\PROG\PROGRAMACIONDAM\u20_programacion_funcional\ejercicios\2_ejercicios\solucion\2_ejercicios_programacion_funcional\ejercicio4\obj\Debug\net9.0\ref\ejercicio4.dll
