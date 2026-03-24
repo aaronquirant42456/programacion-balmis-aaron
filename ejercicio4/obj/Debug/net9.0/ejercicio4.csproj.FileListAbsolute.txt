@@ -1,0 +1,14 @@
+F:\DAM\Programación\U20\1_ejercicios_programacion_funcional\ejercicio4\obj\Debug\net9.0\ejercicio4.GeneratedMSBuildEditorConfig.editorconfig
+F:\DAM\Programación\U20\1_ejercicios_programacion_funcional\ejercicio4\obj\Debug\net9.0\ejercicio4.AssemblyInfoInputs.cache
+F:\DAM\Programación\U20\1_ejercicios_programacion_funcional\ejercicio4\obj\Debug\net9.0\ejercicio4.AssemblyInfo.cs
+F:\DAM\Programación\U20\1_ejercicios_programacion_funcional\ejercicio4\obj\Debug\net9.0\ejercicio4.csproj.CoreCompileInputs.cache
+F:\DAM\Programación\U20\1_ejercicios_programacion_funcional\ejercicio4\bin\Debug\net9.0\ejercicio4.exe
+F:\DAM\Programación\U20\1_ejercicios_programacion_funcional\ejercicio4\bin\Debug\net9.0\ejercicio4.deps.json
+F:\DAM\Programación\U20\1_ejercicios_programacion_funcional\ejercicio4\bin\Debug\net9.0\ejercicio4.runtimeconfig.json
+F:\DAM\Programación\U20\1_ejercicios_programacion_funcional\ejercicio4\bin\Debug\net9.0\ejercicio4.dll
+F:\DAM\Programación\U20\1_ejercicios_programacion_funcional\ejercicio4\bin\Debug\net9.0\ejercicio4.pdb
+F:\DAM\Programación\U20\1_ejercicios_programacion_funcional\ejercicio4\obj\Debug\net9.0\ejercicio4.dll
+F:\DAM\Programación\U20\1_ejercicios_programacion_funcional\ejercicio4\obj\Debug\net9.0\refint\ejercicio4.dll
+F:\DAM\Programación\U20\1_ejercicios_programacion_funcional\ejercicio4\obj\Debug\net9.0\ejercicio4.pdb
+F:\DAM\Programación\U20\1_ejercicios_programacion_funcional\ejercicio4\obj\Debug\net9.0\ejercicio4.genruntimeconfig.cache
+F:\DAM\Programación\U20\1_ejercicios_programacion_funcional\ejercicio4\obj\Debug\net9.0\ref\ejercicio4.dll
