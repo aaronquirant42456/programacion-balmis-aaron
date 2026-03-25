@@ -4,7 +4,7 @@ namespace Ejercicio5
 {
     public class Principal
     {
-        public delegate void Action();
+        // public delegate void Action();
 
         public static int Suma(int n1, int n2) => n1 + n2;
         public static int CuadradoDe(int number) => number * number;
