@@ -104,3 +104,14 @@ G:\TRABAJO\MODULOS\PROG\PROGRAMACIONDAM\u20_programacion_funcional\ejercicios\3_
 G:\TRABAJO\MODULOS\PROG\PROGRAMACIONDAM\u20_programacion_funcional\ejercicios\3_ejercicios\solucion\3_ejercicios_programacion_funcional_solucion\ejercicio1.tests\obj\Debug\net9.0\ejercicio1.tests.pdb
 G:\TRABAJO\MODULOS\PROG\PROGRAMACIONDAM\u20_programacion_funcional\ejercicios\3_ejercicios\solucion\3_ejercicios_programacion_funcional_solucion\ejercicio1.tests\obj\Debug\net9.0\ejercicio1.tests.genruntimeconfig.cache
 G:\TRABAJO\MODULOS\PROG\PROGRAMACIONDAM\u20_programacion_funcional\ejercicios\3_ejercicios\solucion\3_ejercicios_programacion_funcional_solucion\ejercicio1.tests\obj\Debug\net9.0\ref\ejercicio1.tests.dll
+F:\DAM\Programación\U20\3_ejercicios_programacion_funcional\ejercicio1.tests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_ejercicio1.tests
+F:\DAM\Programación\U20\3_ejercicios_programacion_funcional\ejercicio1.tests\bin\Debug\net9.0\CoverletSourceRootsMapping_ejercicio1.tests
+F:\DAM\Programación\U20\3_ejercicios_programacion_funcional\ejercicio1.tests\obj\Debug\net9.0\ejercicio1.tests.csproj.AssemblyReference.cache
+F:\DAM\Programación\U20\3_ejercicios_programacion_funcional\ejercicio1.tests\obj\Debug\net9.0\ejercicio1.tests.GeneratedMSBuildEditorConfig.editorconfig
+F:\DAM\Programación\U20\3_ejercicios_programacion_funcional\ejercicio1.tests\obj\Debug\net9.0\ejercicio1.tests.AssemblyInfoInputs.cache
+F:\DAM\Programación\U20\3_ejercicios_programacion_funcional\ejercicio1.tests\obj\Debug\net9.0\ejercicio1.tests.AssemblyInfo.cs
+F:\DAM\Programación\U20\3_ejercicios_programacion_funcional\ejercicio1.tests\obj\Debug\net9.0\ejercicio1.tests.csproj.CoreCompileInputs.cache
+F:\DAM\Programación\U20\3_ejercicios_programacion_funcional\ejercicio1.tests\obj\Debug\net9.0\ejercicio1.tests.sourcelink.json
+F:\DAM\Programación\U20\3_ejercicios_programacion_funcional\ejercicio1.tests\obj\Debug\net9.0\ejercicio1.tests.dll
+F:\DAM\Programación\U20\3_ejercicios_programacion_funcional\ejercicio1.tests\obj\Debug\net9.0\refint\ejercicio1.tests.dll
+F:\DAM\Programación\U20\3_ejercicios_programacion_funcional\ejercicio1.tests\obj\Debug\net9.0\ejercicio1.tests.pdb
