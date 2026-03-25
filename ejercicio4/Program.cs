@@ -158,6 +158,7 @@ namespace Ej5_ConsultasProductos
                 var consulta5 = Productos
                     .GroupBy(producto => producto.Categoria)
                     .Where(productosCategoria => productosCategoria.Count() > 2)
+                    // explicación chatgpt, porque nop me aclaraba con el group by en este
                     // Cuando usas GroupBy en LINQ, cada grupo que se genera es un IGrouping<TKey, TElement>, donde .Key representa la clave del grupo, es decir, el valor por el que agrupaste (por ejemplo, la categoría), y los elementos que pertenecen al grupo están dentro del propio IGrouping. Por eso usamos .Key para acceder al valor que define el grupo y poder mostrarlo o procesarlo; en pocas palabras, .Key es “el nombre del grupo” que identifica sus elementos.
                     .Select(cat => new { Categoria = cat.Key });
                 Console.WriteLine(string.Join("\n", consulta5));
