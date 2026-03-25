@@ -6,7 +6,7 @@ namespace Ejercicio3
     {
         //TODO: Define el código necesario para el ejercicio 
         public delegate bool Delegado<T>(T p);
-        public static void Mostrar<T>(T[][] array)
+        // public static void Mostrar<T>(T[][] array)
         {
             foreach(var ar in array)
             {
