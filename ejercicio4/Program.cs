@@ -12,7 +12,7 @@ namespace Ejercicio4
     {
         public static Func<double, double> VolumenEsfera() => (radio) => 4.0/3.0*Math.PI*Math.Pow(radio, 3);
         public static Func<string, bool> EsCapitular() => (cadena) => char.IsUpper(cadena[0]);
-        public static Func<string, Dictionary<string, int>> DiccionarioDePalabras() => (palabra) => new Dictionary<string, int>();
+        public static Func<string, Dictionary<string, int>> DiccionarioDePalabras() => (frase) => frase.Split(' ').Distinct().ToDictionary(palabra => palabra, palabra => palabra.Length);
         ///TODO: Implementa los métodos indicados en el enunciado
         public static void Main()
         {
