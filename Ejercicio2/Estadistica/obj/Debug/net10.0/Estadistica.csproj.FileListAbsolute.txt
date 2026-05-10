@@ -1,0 +1,11 @@
+/run/media/mudkip/aaron_/DAM/Programación/U22/1_ejercicios_bibliotecas/Ejercicio2/Estadistica/bin/Debug/net10.0/Estadistica.deps.json
+/run/media/mudkip/aaron_/DAM/Programación/U22/1_ejercicios_bibliotecas/Ejercicio2/Estadistica/bin/Debug/net10.0/Estadistica.dll
+/run/media/mudkip/aaron_/DAM/Programación/U22/1_ejercicios_bibliotecas/Ejercicio2/Estadistica/bin/Debug/net10.0/Estadistica.pdb
+/run/media/mudkip/aaron_/DAM/Programación/U22/1_ejercicios_bibliotecas/Ejercicio2/Estadistica/obj/Debug/net10.0/Estadistica.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/mudkip/aaron_/DAM/Programación/U22/1_ejercicios_bibliotecas/Ejercicio2/Estadistica/obj/Debug/net10.0/Estadistica.AssemblyInfoInputs.cache
+/run/media/mudkip/aaron_/DAM/Programación/U22/1_ejercicios_bibliotecas/Ejercicio2/Estadistica/obj/Debug/net10.0/Estadistica.AssemblyInfo.cs
+/run/media/mudkip/aaron_/DAM/Programación/U22/1_ejercicios_bibliotecas/Ejercicio2/Estadistica/obj/Debug/net10.0/Estadistica.csproj.CoreCompileInputs.cache
+/run/media/mudkip/aaron_/DAM/Programación/U22/1_ejercicios_bibliotecas/Ejercicio2/Estadistica/obj/Debug/net10.0/Estadistica.dll
+/run/media/mudkip/aaron_/DAM/Programación/U22/1_ejercicios_bibliotecas/Ejercicio2/Estadistica/obj/Debug/net10.0/refint/Estadistica.dll
+/run/media/mudkip/aaron_/DAM/Programación/U22/1_ejercicios_bibliotecas/Ejercicio2/Estadistica/obj/Debug/net10.0/Estadistica.pdb
+/run/media/mudkip/aaron_/DAM/Programación/U22/1_ejercicios_bibliotecas/Ejercicio2/Estadistica/obj/Debug/net10.0/ref/Estadistica.dll

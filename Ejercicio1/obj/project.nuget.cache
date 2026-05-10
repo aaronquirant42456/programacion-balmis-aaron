@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XrJwoW7XVEs=",
+  "success": true,
+  "projectFilePath": "/run/media/mudkip/aaron_/DAM/Programación/U22/1_ejercicios_bibliotecas/Ejercicio1/Ejercicio1.csproj",
+  "expectedPackageFiles": [
+    "/home/mudkip/.nuget/packages/spectre.console/0.55.2/spectre.console.0.55.2.nupkg.sha512",
+    "/home/mudkip/.nuget/packages/spectre.console.ansi/0.55.2/spectre.console.ansi.0.55.2.nupkg.sha512"
+  ],
+  "logs": []
+}
