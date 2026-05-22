@@ -1,0 +1,15 @@
+[
+  {
+    "nombre": "Usuario Con Apodo",
+    "apodo": "TheUser",
+    "edad": 22,
+    "fechaRegistro": "2026-05-22T18:08:07.6757753+02:00",
+    "activo": true
+  },
+  {
+    "nombre": "Usuario Sin Apodo",
+    "edad": 45,
+    "fechaRegistro": "2026-05-22T18:08:07.6806286+02:00",
+    "activo": true
+  }
+]

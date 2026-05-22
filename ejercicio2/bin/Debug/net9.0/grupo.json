@@ -1,0 +1,2 @@
+{"nombreGrupo":"Administradores","miembros":[{"nombre":"Alice","edad":25,"activo":true},{"nombre":"Bob","edad":30,"activo":true}]}
+{"nombreGrupo":"Usuarios","miembros":[{"nombre":"Charlie","edad":35,"activo":false},{"nombre":"Dave","edad":40,"activo":true}]}
